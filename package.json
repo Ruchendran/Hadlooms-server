@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ruchendran/Hadlooms-server/issues"
   },
-  "homepage": "https://github.com/Ruchendran/Hadlooms-server#readme"
+  "homepage": "https://github.com/Ruchendran/Hadlooms-server#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
